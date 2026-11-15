@@ -1,7 +1,7 @@
 # Étudiant à 42 Le Havre.
 
 ## 🛠️ Technologies
-![Skills](https://skillicons.dev/icons?i=c,py,bash,git,linux,vim)
+![Skills](https://skillicons.dev/icons?i=c,py,bash,git,linux,vim, html)
 
 ## 📌 Projets
 - **[ft_libft](https://github.com/ncancHcnacn/ft_libft)** : réimplémentation de la libc. 
